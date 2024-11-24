@@ -1,1 +1,23 @@
-Readme
+# Iris Dataset Analysis
+
+This repository contains a data analytics exercise on the **Iris Dataset**, focusing on **Statistics** and **Machine Learning** concepts.
+
+## Details  
+- **Name**: Prajwal Umla Naik  
+- **Matriculation Number**: 100001320  
+- **File**: `iris.ipynb`  
+
+## Summary  
+The notebook includes:  
+- Data analysis and visualization  
+- Statistical insights  
+- Machine Learning models for classification  
+
+## How to Use  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/your-repo-url.git  
+   ```  
+2. Open the `iris.ipynb` notebook in Jupyter.  
+
+
