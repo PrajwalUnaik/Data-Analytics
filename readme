@@ -1,15 +1,19 @@
-# Iris Dataset Analysis
 
-This repository contains a data analytics exercise on the **Iris Dataset**, focusing on **Statistics** and **Machine Learning** concepts.
+---
+
+# Iris Dataset Analysis  
+
+This repository contains a data analytics exercise on the **Iris Dataset**, focusing on **Statistics** and **Machine Learning** concepts.  
 
 ## Details  
 - **Name**: Prajwal Umla Naik  
 - **Matriculation Number**: 100001320  
-- **File**: `iris.ipynb`  
+- **Notebook File**: `iris.ipynb`  
 
 ## Summary  
 The notebook includes:  
-- Data analysis and visualization  
+- Exploratory Data Analysis (EDA)  
+- Data visualizations  
 - Statistical insights  
 - Machine Learning models for classification  
 
@@ -18,6 +22,14 @@ The notebook includes:
    ```bash  
    git clone https://github.com/your-repo-url.git  
    ```  
-2. Open the `iris.ipynb` notebook in Jupyter.  
+2. Navigate to the folder:  
+   ```bash  
+   cd your-repo-folder  
+   ```  
+3. Open the notebook in Jupyter:  
+   ```bash  
+   jupyter notebook iris.ipynb  
+   ```  
 
+--- 
 
